@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shadin  
 
-💡 Odoo & Django Developer | ERP & CRM Customization | Full-Stack Problem Solver  
+💡 Odoo & Django Developer | ERP & CRM Customization  
 
 ---
 
