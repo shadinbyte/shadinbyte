@@ -1,66 +1,45 @@
-# 👋 Hi, I'm Shadin
+# Hey, I'm Shadin — AI Engineer
 
-**Odoo & Python Developer | ERP & CRM Solutions**
-
-Building business automation systems with Odoo, Django, and Python.
-
----
-
-## 💼 What I Do
-
-- 🔹 Custom **Odoo module development** (Inventory, Quality Control, Sales, Accounting, HR)
-- 🔹 Full-stack web apps with **Django + DRF + React**
-- 🔹 Database design & optimization with **PostgreSQL**
-- 🔹 Business process automation & ERP implementation
+I build production-grade AI systems: RAG chatbots, LLM-powered automation,
+and end-to-end AI pipelines that connect real data to real workflows.
 
 ---
 
-## 🛠️ Tech Stack
+## What I built
 
-**ERP & Backend:**  
-`Odoo (v15-v18)` `Python` `Django` `DRF` `PostgreSQL` `API Integration`
-
-**Frontend:**  
-`JavaScript` `React` `TailwindCSS` `XML` `QWeb`
-
-**Tools & DevOps:**  
-`Git` `Linux` `Docker` `nginx` `DigitalOcean`
+- **RAG Chatbots** — multi-format document ingestion, vector search, LLM response
+- **AI Automation** — API + SaaS integrations, CRM enrichment
+- **AI Pipelines** — FastAPI delivery layer, structured outputs, observable traces
 
 ---
 
-## 🚀 Featured Projects
+## Stack
 
-### [Smart Inventory & Quality Control System](link)
-Custom Odoo module with automated inspection workflows, quality checkpoints, traceability, and analytics dashboard.  
-**Tech:** Odoo, Python, PostgreSQL, QWeb
+**AI/ML**
+`LangChain` `LangGraph` `LlamaIndex` `OpenAI API` `Anthropic API` `OpenRouter`
 
-### [ShopEase - E-Commerce Platform](link)
-Full-stack e-commerce with JWT auth, REST APIs, and real-time inventory management.  
-**Tech:** Django, DRF, React, PostgreSQL
+**Vector DBs**
+`Pinecone` `ChromaDB` `Weaviate`
 
-### [Customer Segmentation ML System](link)
-Analyzed 3,000+ records using clustering algorithms with an interactive Streamlit dashboard.  
-**Tech:** Python, Scikit-learn, Streamlit, Plotly
+**Backend**
+`Python` `FastAPI` `Pydantic` `Docker`
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shadinbyte&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadinbyte&layout=compact&theme=radical" height="165"/>
-</p>
+**Data Engineering**
+`SQL` `dbt` `Snowflake` `Power BI` `Pandas`
 
 ---
 
-## 🤝 Let's Connect
+## Portfolio projects
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shadinalmahmood/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shadinalmahmood@gmail.com)
+| Project | What it does | Stack |
+|---|---|---|
+| 📄 PDF RAG Chatbot | Multi-format doc Q&A with source citations | LangChain · Pinecone · FastAPI |
+| 🤖 Sales AI Assistant | Slack-integrated lead enrichment + follow-up drafting | LangGraph · HubSpot API |
+| 🗂️ Drive Knowledge Base | Google Drive → vector store → AI Q&A | LlamaIndex · ChromaDB |
 
-📍 Based in Bangladesh | Open to remote opportunities
+> Projects uploading progressively — check back.
 
 ---
 
-💡 *Focused on building ERP solutions that solve real business problems*
-```
+<sub>Analytics engineering background (dbt · Snowflake · Power BI) available for
+AI ↔ data stack integration work.</sub>
