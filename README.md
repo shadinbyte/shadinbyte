@@ -56,10 +56,11 @@ Also built full documentation packages for regulated environments: a 47-item FDA
 
 ---
 
-### 📊 GitHub Stats
+### 📊 What I'm Currently Focused On
 
-![Stats](https://github-readme-stats.vercel.app/api?username=shadinbyte&show_icons=true&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shadinbyte&layout=compact&hide_border=true)
+- Building production-grade RAG and agentic systems (retrieval, orchestration, observability)
+- Deploying voice and chat agents that handle real customer conversations end to end
+- Sharpening automation pipelines that remove manual, repetitive work from a business
 
 ---
 
