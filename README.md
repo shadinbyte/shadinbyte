@@ -1,4 +1,4 @@
-# Hey, I'm Shadin — AI Engineer
+# Hey, I'm Shadin - AI Engineer
 
 I build production-grade AI systems: RAG chatbots, LLM-powered automation,
 and end-to-end AI pipelines that connect real data to real workflows.
@@ -7,25 +7,23 @@ and end-to-end AI pipelines that connect real data to real workflows.
 
 ## What I built
 
-- **RAG Chatbots** — multi-format document ingestion, vector search, LLM response
-- **AI Automation** — API + SaaS integrations, CRM enrichment
-- **AI Pipelines** — FastAPI delivery layer, structured outputs, observable traces
+- **RAG Chatbots** - multi-format document ingestion, vector search, LLM response
+- **AI Automation** - API + SaaS integrations, CRM enrichment
+- **AI Pipelines** - FastAPI delivery layer, structured outputs, observable traces
 
 ---
 
 ## Stack
 
 **AI/ML**
-`LangChain` `LangGraph` `LlamaIndex` `OpenAI API` `Anthropic API` `OpenRouter`
+`LangChain` `LangGraph` `LlamaIndex` `OpenAI API` `OpenRouter`
 
 **Vector DBs**
-`Pinecone` `ChromaDB` `Weaviate`
+`Pinecone` `ChromaDB`
 
 **Backend**
 `Python` `FastAPI` `Pydantic` `Docker`
 
-**Data Engineering**
-`SQL` `dbt` `Snowflake` `Power BI` `Pandas`
 
 ---
 
